@@ -1,7 +1,7 @@
 {
-  "name": "altomedia-whatsapp-bot",
+  "name": "ALTO MEDIA",
   "version": "1.0.0",
-  "description": "A WhatsApp bot for ALTOMEDIA online store",
+  "description": "A WhatsApp ALTO MEDIA online store",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
