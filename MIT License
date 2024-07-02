@@ -1,0 +1,13 @@
+
+### **Cara Upload ke GitHub**
+
+1. **Buat Repository Baru di GitHub**: Masuk ke akun GitHub Anda dan buat repository baru.
+2. **Push Kode ke Repository**:
+
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git branch -M main
+   git remote add origin https://github.com/altomedia/altomedia-whatsapp-bot.git
+   git push -u origin main
