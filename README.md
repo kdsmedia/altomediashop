@@ -14,5 +14,5 @@ Bot WhatsApp untuk toko online ALTOMEDIA yang menyediakan produk media sosial.
 1. **Clone Repositori**
 
    ```bash
-   git clone https://github.com/username/altomedia-whatsapp-bot.git
-   cd altomedia-whatsapp-bot
+   git clone https://github.com/altomedia/altomediashop.git
+   cd altomediashop
